@@ -1,0 +1,19 @@
+.thumbnail {
+    position: relative;
+  }
+  
+.caption {
+    position: absolute;
+    top: 36%;
+    left: 0;
+    width: 100%;
+}
+
+.team-card {
+    background-color: #ecf0f1!important;
+}
+
+.real-big {
+    font-size: 6.5rem;
+}
+
