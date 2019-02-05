@@ -19,7 +19,7 @@ main {
 }
 
 footer {
-  background: #191919;
+  background: #000000;
   padding-top: 2em;
 }
 
@@ -33,6 +33,10 @@ footer {
 
 .white-text {
   color: #EEEEEE!important;
+}
+
+.img-thumbnail {
+  background-color: #ff9900; 
 }
 
 .row-margin-1 {
