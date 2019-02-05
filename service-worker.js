@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/CubeRule/precache-manifest.15b34aad071832dd9b49239e5dc4c1d3.js"
+  "/CubeRule/precache-manifest.676af32de640ccdf2c1af3bd2e3095df.js"
 );
 
 workbox.clientsClaim();
