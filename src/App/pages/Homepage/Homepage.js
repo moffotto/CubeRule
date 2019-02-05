@@ -3,7 +3,7 @@ import './Homepage.css';
 import { Showcase } from './components/Showcase';
 import { Image, Container, Row, Col } from 'react-bootstrap';
 
-const team = [{ name: "Adele Miller", bio: "This be Adele.", image: "./img/sam.jpg" }, { name: "Haarshita Akkaraju", bio: "This be Harshitha.", image: "./img/sam.jpg" }, { name: "Shaarika Kaul", bio: "This is Shaarika.", image: "./img/sam.jpg" }, { name: "Sam Otto", bio: "This be me.", image: "./img/sam.jpg" }];
+const team = [{ name: "Adele Miller", bio: "This be Adele.", image: "./img/sam.jpg" }, { name: "Harshitha Akkaraju", bio: "This be Harshitha.", image: "./img/sam.jpg" }, { name: "Shaarika Kaul", bio: "This is Shaarika.", image: "./img/sam.jpg" }, { name: "Sam Otto", bio: "This be me.", image: "./img/sam.jpg" }];
 const awsImg = [{ src: "./img/aws_logo.svg" }, { src: "./img/aws_cloud.svg" }, { src: "./img/aws_ssl.svg" }];
 const sponsor = [{ name: "Joe Basirico", bio: "Security Innovation Joe.", image: "./img/sam.jpg" }]
 
