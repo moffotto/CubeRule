@@ -25,7 +25,7 @@ export class Homepage extends Component {
                 </Container>
 
                 <Container>
-                    <Row className="row-margin-4">
+                    <Row className="row-margin-6">
                         <h1 className="white-text">What this is</h1>
                     </Row>
                     <Row>
@@ -47,7 +47,7 @@ export class Homepage extends Component {
                 </Container>
 
                 <Container>
-                    <Row className="row-margin-4" >
+                    <Row className="row-margin-6" >
                         <h1 className="white-text">Who we are</h1>
                     </Row>
                     <Row className="row-margin-1" >
@@ -56,7 +56,7 @@ export class Homepage extends Component {
                 </Container>
 
                 <Container>
-                    <Row className="row-margin-4" >
+                    <Row className="row-margin-6" >
                         <h1 className="white-text">Our sponsors</h1>
                     </Row>
                     <Row className="row-margin-1" >
@@ -65,7 +65,7 @@ export class Homepage extends Component {
                 </Container>
 
                 <Container>
-                    <Row className="row-margin-4">
+                    <Row className="row-margin-6">
                         <Col xs={6}>
                             <Row>
                                 <h1 className="white-text">Why "CubeRule"?</h1>
