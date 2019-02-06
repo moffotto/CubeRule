@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/CubeRule/static/js/runtime~main.2d10b67f.js"
   },
   {
-    "revision": "004de3ffeda028924c37",
-    "url": "/CubeRule/static/js/main.004de3ff.chunk.js"
+    "revision": "16b334ba93ffe34a3c6c",
+    "url": "/CubeRule/static/js/main.16b334ba.chunk.js"
   },
   {
     "revision": "4928bccfdb80846973a2",
     "url": "/CubeRule/static/js/1.4928bccf.chunk.js"
   },
   {
-    "revision": "004de3ffeda028924c37",
+    "revision": "16b334ba93ffe34a3c6c",
     "url": "/CubeRule/static/css/main.d039f63f.chunk.css"
   },
   {
-    "revision": "d55bb6f2b688f638f65a2f791ccd4c7c",
+    "revision": "8012cbbe4440da16f4de6ee79c6bbc9b",
     "url": "/CubeRule/index.html"
   }
 ];
